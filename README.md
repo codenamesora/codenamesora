@@ -49,12 +49,7 @@
 
 > 🎸🔥 This track fuels my punk-rock energy.
 
----
 
-## 🎧 Now Playing (Optional – auto update)
-
-[![Spotify]([![Poster Boy – 2hollis](https://img.shields.io/badge/Play_on_Spotify-Poster_Boy_(2hollis)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ?si=e74989603e7941f5)
-)
 
 ---
 
