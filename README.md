@@ -15,7 +15,7 @@
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="J.png" alt="SORA" width="200" style="border-radius: 50%; border: 4px solid #ff0000;" />
+  <img src="J.jpg" alt="SORA" width="200" style="border-radius: 50%; border: 4px solid #ff0000;" />
   
   # 🎸🔥 Hey, I’m **SORA** 🔥🎸
   ### ⚡ Punk vibes | Rock spirit | Code rebel 🖤
