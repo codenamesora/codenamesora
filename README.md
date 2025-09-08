@@ -52,12 +52,9 @@
 ---
 
 ## 🎧 Now Playing (Optional – auto update)
-> Want live “Now Playing” from your Spotify?  
-> 1) Buat app di Spotify Dev Dashboard → ambil Client ID/Secret  
-> 2) Ikuti instruksi repo `kittinan/spotify-github-profile`  
-> 3) Ganti `YOUR_SPOTIFY_UID` di bawah
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_UID)
+[![Spotify]([![Poster Boy – 2hollis](https://img.shields.io/badge/Play_on_Spotify-Poster_Boy_(2hollis)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ?si=e74989603e7941f5)
+)
 
 ---
 
